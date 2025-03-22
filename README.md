@@ -1,27 +1,45 @@
-# VirtualNumberPlanAnalysis
+# VirtualNumberPlanAnalysis 📞✨
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
+👋 Welcome to **VirtualNumberPlanAnalysis** – a powerful tool to analyze virtual communication platforms and recommend the best plans for users!
 
-## Development server
+🚀 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🌟 Project Overview
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 🕷 **Crawling & Analysis**: Built a system to crawl and analyze data from Google Voice, e-Voice, Ring Central, and Grasshopper platforms.
+- 🔍 **Data Extraction & Recommendations**: Integrated optimized search functionality and recommendation tools to identify the best communication plans tailored to user needs.
+- 🛠 **Tech Stack**:
+  - **Front-End**: Angular framework for a sleek, responsive UI.
+  - **Back-End**: Java for robust server-side logic.
+  - **Database**: SQL Server for efficient data management.
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🏃‍♂️ Getting Started
 
-## Running unit tests
+### Development Server
+Run `ng serve` to start a dev server. Navigate to `http://localhost:4200/`. The app will auto-reload on file changes. 🚀
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Code Scaffolding
+Generate new components with:
+```bash
+ng generate component component-name
+```
 
-## Running end-to-end tests
+Also supports: directive, pipe, service, class, guard, interface, enum, module.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Build
+Compile the project with: ```ng build```
 
-## Further help
+Artifacts will be stored in the dist/ directory. 📦
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 🛠 Tech Highlights
+Front-End: Angular
+Back-End: Java
+Database: SQL Server
+Purpose: Data-driven communication plan recommendations\
+
+## 📚 Further Help
+Need more info? Run ng help or check out the Angular CLI Overview and Command Reference page. 📖
